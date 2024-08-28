@@ -2,6 +2,9 @@
 body{
 	background-color: rgb(204, 204, 204);
 }
+a{
+	text-decoration-line: none;
+}
 .list{
 	list-style-type: none;
 	background-color: white;
